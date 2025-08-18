@@ -7,16 +7,16 @@ This Live Project Walkthrough was originally conceived by Abdullah Karasan, fina
 
 <h1>_Contents_</h1>
 <h2>Project 1: Capital Asset Pricing Model (CAPM)</h2>
-<li>LPWV_P1M1_JRL.ipynb</li>
-<li>LPWV_P1M2_JRL.ipynb</li>
-<li>LPWV_P1M3_JRL.ipynb</li>
-<li>LPWV_P1M4_JRL.ipynb</li>
+<li>CAPM_M1_getting_data.ipynb</li>
+<li>CAPM_M2_preparing_data.ipynb</li>
+<li>CAPM_M3_calculate_beta.ipynb</li>
+<li>CAPM_M4_SML_and_ratios.ipynb</li>
 
 <h2>Project 2: Arbitrage Pricing Theory (APT)</h2>
-<li>LPWV_P2M1.ipynb</li>
-<li>LPWV_P2M2.ipynb</li>
-<li>LPWV_P2M3.ipynb</li>
-<li>LPWV_P2M4.ipynb</li>
+<li>APT_M1_call_apis.ipynb</li>
+<li>APT_M2_build_model.ipynb</li>
+<li>APT_M3_model_comparison.ipynb</li>
+<li>APT_M4_SML.ipynb</li>
 
 <h2>Data assets (to be used if online data are not available):</h2>
 <li>scen1_fred.csv</li>
